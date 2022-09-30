@@ -1,7 +1,7 @@
 import React from "react";
 import pic from "../assets/Anne.png";
 import Mail from "../assets/Mail.png";
-import LinkedIn from "../assets/linkedin.png";
+import LinkedIn from "../assets/linkedIn.png";
 export default function Info() {
   return (
     <div className="info_section">
